@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <h3 align="center">Cloud Solutions Architect | Full-Stack Developer | Data Analyst</h3>
+  <h3 align="center">ERP Solutions Architect | Cloud-Native Developer (C#, React, SQL) | Specializing in Tailored ERP Systems for SMEs</h3>
   <h4 align="center">From El Salvador 🇸🇻, based in Germany 🇩🇪</h4>
 </p>
 
